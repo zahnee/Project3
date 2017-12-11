@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1512967196 source:c:\users\zahnee\desktop\project3\digraph.cpp
+	"Digraph.hpp"
+	<climits>
+	<vector>
+	<map>
+	<iostream>
+
+1512960200 c:\users\zahnee\desktop\project3\digraph.hpp
+	<string>
+	<vector>
+	<iostream>
+
+1512361146 source:c:\users\zahnee\desktop\project3\test_dijkstra.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Digraph.hpp"
+
+1512951025 source:c:\users\zahnee\desktop\project3\heap.cpp
+	"Heap.hpp"
+	"iostream"
+
+1512951025 c:\users\zahnee\desktop\project3\heap.hpp
+	"HNode.hpp"
+	<vector>
+
+1512951025 c:\users\zahnee\desktop\project3\hnode.hpp
+
+1512951025 source:c:\users\zahnee\desktop\project3\hnode.cpp
+	"HNode.hpp"
+
